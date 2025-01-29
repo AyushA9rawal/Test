@@ -32,21 +32,6 @@ npm run dev
 
 This will start the React app at http://localhost:5173/.
 
-📂 Folder Structure
-
-user-management-dashboard/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── UserList.jsx
-│   │   ├── UserForm.jsx
-│   ├── styles/
-│   │   ├── styles.css
-│   ├── App.jsx
-│   ├── main.jsx
-│── package.json
-│── README.md
-
 UserList.jsx → Displays the list of users
 UserForm.jsx → Handles user addition and editing
 App.jsx → Main application logic
