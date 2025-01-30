@@ -8,7 +8,8 @@ A simple React-based web application that allows users to view, add, edit, and d
 ✅ Edit existing user details
 ✅ Delete a user (simulated using a DELETE request)
 ✅ Error handling for API failures
-✅ Responsive and clean UI
+✅ Responsive and clean UI.
+
 
 🛠️ Tech Stack
 Frontend: React (with Vite), React Hooks (useState, useEffect)
